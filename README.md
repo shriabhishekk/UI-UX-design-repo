@@ -21,7 +21,6 @@ Design Guidelines: Comprehensive guidelines and principles for maintaining consi
 Accessibility Guidelines: Documentation on designing for accessibility, ensuring inclusivity for all users.
 Collaboration Tools:
 Communication Channels: Integration with communication tools like Slack or Microsoft Teams for seamless collaboration.
-Feedback Loops: Mechanisms for designers and stakeholders to provide feedback and comments directly within the repository.
 User Research and Feedback:
 User Research Findings: Storage for research reports, interviews, and usability testing results.
 Feedback Loops: Integration with tools that capture user feedback and suggestions.
